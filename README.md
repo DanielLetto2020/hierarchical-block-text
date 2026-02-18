@@ -125,7 +125,7 @@ hbt set-progress --id abc123 --state doing
 
 ```bash
 # Скачайте hbt.py в папку вашего проекта
-curl -O https://raw.githubusercontent.com/USERNAME/hbt/main/hbt.py
+curl -O https://raw.githubusercontent.com/DanielLetto2020/hierarchical-block-text/master/hbt.py
 
 # Запуск
 python3 hbt.py --version
@@ -137,8 +137,8 @@ python3 hbt.py add --text "Моя первая задача"
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/USERNAME/hbt.git
-cd hbt
+git clone https://github.com/DanielLetto2020/hierarchical-block-text.git
+cd hierarchical-block-text
 
 # Сделайте исполняемым
 chmod +x hbt.py
@@ -1515,7 +1515,7 @@ echo "- hbt add --to ID --text 'текст'" >> AI_CONTEXT.md
 **Максим Кузьминский** (Maxim Kuzminsky)
 
 - 📧 Email: [i@m-letto.ru](mailto:i@m-letto.ru)
-- 🐙 GitHub: [github.com/USERNAME](https://github.com/USERNAME)
+- 🐙 GitHub: [github.com/DanielLetto2020](https://github.com/DanielLetto2020)
 
 ---
 
